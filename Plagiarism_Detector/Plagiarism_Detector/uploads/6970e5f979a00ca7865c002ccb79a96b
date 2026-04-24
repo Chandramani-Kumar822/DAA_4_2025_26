@@ -1,0 +1,26 @@
+Operating systems manage computer hardware and software resources efficiently. 
+The operating system handles memory management, process scheduling, and device control.
+
+Process scheduling ensures that CPU time is shared among processes properly. 
+It improves the performance of the system.
+
+Memory management allocates memory space and prevents conflicts between processes. 
+It is a key function of operating systems.
+
+File systems in operating systems help in storing and retrieving data. 
+They organize files in a structured manner on storage devices.
+
+Device management allows communication between the system and hardware devices. 
+It controls input and output operations effectively.
+
+Operating systems provide security features such as user authentication and authorization. 
+These features protect system resources from unauthorized access.
+
+Modern operating systems support multitasking and multi-user capabilities. 
+They allow multiple applications and users to run at the same time.
+
+Virtual memory allows the system to use disk space as additional memory. 
+It improves performance when physical memory is limited.
+
+Operating systems are designed for efficiency and reliability. 
+They ensure proper utilization of available hardware resources.

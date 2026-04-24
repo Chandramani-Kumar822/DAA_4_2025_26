@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Plagiarism Detector</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>📄 Plagiarism Detector</h1>
+
+      <input type="file" id="files" multiple /><br />
+
+      <button onclick="compare()">Compare</button>
+
+      <div id="loader">⏳ Processing...</div>
+
+      <div id="table"></div>
+      <div id="matches"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

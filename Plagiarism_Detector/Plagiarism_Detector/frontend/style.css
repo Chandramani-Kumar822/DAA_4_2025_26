@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #141e30, #243b55);
+  color: white;
+}
+
+.container {
+  width: 600px;
+  margin: 50px auto;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #00c6ff;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0072ff;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+th {
+  background: #0072ff;
+}
+
+.match-box {
+  margin-top: 20px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+#loader {
+  display: none;
+  margin-top: 10px;
+}
+
+.clickable {
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.clickable:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.self-cell {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.match-box {
+  margin-top: 20px;
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  text-align: left;
+}
